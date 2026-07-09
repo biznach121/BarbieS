@@ -427,12 +427,12 @@ export const brand: Brand = {
         position: "center",
       },
       {
-        src: "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1780581429/hptukehgmrufp33qyd5e.mp4",
+        src: "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783579480/ssstik.io__barbiesglamour2_1783579414093_inwbib.mp4",
         alt: "Barbie's Glamour salon media video",
         position: "center",
       },
       {
-        src: "https://res.cloudinary.com/dcc5ggnkc/video/upload/v1780581430/gse4jxivlcejlrtq3fjk.mp4",
+        src: "https://res.cloudinary.com/dzykdnbvb/video/upload/v1783579480/ssstik.io__barbiesglamour2_1783579414093_inwbib.mp4",
         alt: "Barbie's Glamour self-care media video",
         position: "center",
       },
